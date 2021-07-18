@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Qinheping Hu</title>
+</head>
+<body>
+<div id="wrapper">
+    
+	
+	<div id="main-content">
+		<div id="left-column">
+			<div class="box">
+			</div>nheping Hu</h2>
+                        <p>
+                                <em>"Here is i
+			<h2>Qinheping Hu</h2>
+			<p>
+				<em>"Here is intended to be some beautiful quotes, but I didn't find a good one."</em> - Me<br/>
+			</p>
+		</div>
+		<div id="right-column">
+			<center> <div id="main-image"><img src="images/personalphoto
+" width="189.8" height="202" /></div> </center>
+			<div class="sidebar">
+				<h3>About Me</h3>
+        		<p style="line-height: 25%">2nd-Year Ph.D. Student in Programming Langugage</p>
+			<p style="line-height: 25%">Department of Computer Sciences  University of Wisconsin, Madison</p>
+        		<p style="line-height: 25%">Advised by <a  class="tit" href="http://pages.cs.wisc.edu/~loris/">Prof.Loris D'Antoni</a></p>
+
+			<p style="line-height: 125%">My reasearch interests lie on programming langugae and theory of Computing and my CV can be found <a  class="tit" href="papers/cv_QinhepingHu.pdf">here</a>. </p>
+			<p> <a  class="tit" href="https://github.com/Herbping">Github</a> and Email: qhu28 [at] wisc (dot) edu</p>
+			</div>
+
+
+			<div class="sidebar">
+				<h3>Publication</h3>
+        		<p>No publication yet. Hope to fill soon. </p>
+        		<p><a  class="tit" href="papers/k-satisfiable.pdf">A piece of writing</a> about partial SAT problem if you interest.</p>
+			</div>
+		</div>
+	</div>
+	<div id="footer">
+	</div>
+</div>
+
+</body>
+</html>
