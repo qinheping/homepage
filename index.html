@@ -5,6 +5,12 @@
 
 <head>
     	<title>Qinheping Hu 胡覃禾平</title>
+	<!-- pages.cs.wisc.edu/~qhu28/ 把本页整个套在 iframe 里。若不指定 target，
+	     链接会尝试在 iframe 内打开，而 github.com (X-Frame-Options: deny)、
+	     scholar.google.com 和 aws.amazon.com (SAMEORIGIN) 都拒绝跨站嵌套，
+	     结果是那些链接在 CS 系页面上点了没反应。_top 让链接跳出 iframe。
+	     直接访问 heping.me 时无 iframe，_top 等同于当前窗口，无影响。 -->
+	<base target="_top">
 	<link rel="canonical" href="https://heping.me/">
 	<meta name="description" content="Qinheping Hu (胡覃禾平) — Member of Technical Staff at Axiom Math. Frontier LLMs for mathematical problem-solving and software verification. Previously AWS Automated Reasoning Group; PhD, UW-Madison.">
 	<meta name="author" content="Qinheping Hu">
